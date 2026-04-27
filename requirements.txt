@@ -1,0 +1,12 @@
+flask
+flask-cors
+flask-limiter
+groq
+python-dotenv
+pdfplumber
+pandas
+numpy
+scikit-learn
+joblib
+firebase-admin
+bleach

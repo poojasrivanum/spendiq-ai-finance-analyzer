@@ -1,0 +1,2133 @@
+description,category
+amazon prime subscription,Entertainment
+amznprimeauto debit,Entertainment
+amazon video subscription,Entertainment
+prime membership fee,Entertainment
+amazonpaybill → Shopping
+netflixbill → Entertainment
+uber eats → Food
+swiggy instamart → Groceries
+amazon order purchase,Shopping
+amazon shopping cart,Shopping
+amazon pay bill,Shopping
+UPI-P2M-938472-SWIGGY-BLR,Food
+SWIGGY*ORDER#8899,Food
+upi payment zomoto,Food
+ZOMATO-DEL-FOOD-12345,Food
+swigy txn 99887,Food
+KFC*INDIA#5566,Food
+mcdonalds purchase txn,Food
+PIZZAHUT/ORDER/7788,Food
+SUBWAY BLR TXN 9988,Food
+food pymt dominos 8877,Food
+
+BIGBASKET*ORDER#2233,Groceries
+zepto txn 9988 vegetables,Groceries
+DMART BLR PURCHASE,Groceries
+jiomart order id 9988,Groceries
+grocery store txn 8877,Groceries
+milk basket subscription,Groceries
+reliancefresh txn 3344,Groceries
+vegitable purchase typo,Groceries
+grofers order 9988,Groceries
+kirana shop payment,Groceries
+
+UPI-P2A-UBER-DELHI,Transport
+uber trip 99887 blr,Transport
+OLA RIDE TXN 2233,Transport
+rapido bike txn 7788,Transport
+IRCTC-TICKET-BOOKING,Transport
+indigo flight 6e txn,Transport
+petrol pump hpcl txn,Transport
+fastag toll payment 8877,Transport
+metro recharge blr card,Transport
+bus ticket bmtc txn,Transport
+
+AIRTEL PREPAID RECHARGE, Bills
+jio recharge txn 9988, Bills
+electricity bill bescom 2233, Bills
+water bill bwssb txn, Bills
+gas bill payment igl, Bills
+act fibernet bill txn, Bills
+tata sky recharge 9988, Bills
+vodafone postpaid bill, Bills
+utility payment online, Bills
+internet bill hathway, Bills
+
+SALARY CREDIT INFOSYS LTD,Salary
+NEFT SALARY TCS,Salary
+payroll deposit wipro,Salary
+freelance income credited,Salary
+consulting fees txn,Salary
+bonus payout credited,Salary
+stipend internship,Salary
+commission income txn,Salary
+salary april credit,Salary
+income received company,Salary
+
+AMAZON MKTPLACE ORDER,Shopping
+flipkart txn mobile purchase,Shopping
+myntra fashion order 9988,Shopping
+ajio clothing txn,Shopping
+nykaa beauty purchase,Shopping
+croma electronics txn,Shopping
+laptop purchase emi,Shopping
+shoes nike txn,Shopping
+online shopping order,Shopping
+amazon pay purchase,Shopping
+
+rent transfer landlord, Rent
+flat rent april txn, Rent
+pg rent payment 9988, Rent
+hostel fee txn, Rent
+room rent via upi, Rent
+maintenance society charge, Rent
+security deposit owner, Rent
+apartment rent txn, Rent
+shared flat rent, Rent
+rent paid monthly, Rent
+
+apollo pharmacy txn,Health
+doctor consultation practo,Health
+hospital bill fortis,Health
+lab test thyrocare txn,Health
+dentist clinic fee,Health
+eye checkup vision express,Health
+medicine purchase netmeds,Health
+health insurance premium,Health
+physiotherapy session,Health
+medical expense txn,Health
+
+NETFLIX SUBSCRIPTION,Entertainment
+spotify premium txn,Entertainment
+bookmyshow movie ticket,Entertainment
+pvr cinemas booking,Entertainment
+amazon prime subscription,Entertainment
+gaming purchase steam,Entertainment
+concert ticket txn,Entertainment
+youtube premium,Entertainment
+ipl ticket booking,Entertainment
+comedy show ticket,Entertainment
+
+upi credit from friend,Other
+money received dad,Other
+refund amazon txn,Other
+cashback paytm credited,Other
+atm withdrawal txn,Other
+bank charges debit,Other
+gym membership cultfit,Other
+salon payment urbanclap,Other
+temple donation txn,Other
+charity payment,Other
+DEBIT MYNTRA,Shopping
+debit zomato id 2902,Food
+Paid to amazon#8972,Shopping
+PG RENT TXN txn 71145,Rent
+Company payroll txn txn 46165,Salary
+pg rent payment#6170,Rent
+tata sky order txn 68212,Bills
+Upi payment indigo#7569,Transport
+DEBIT LANDLORD id 8056,Rent
+pymt pg rent,Rent
+Myntra order#9771,Shopping
+Paid to cashback UPI Ref 5036521950,Other
+PAID TO MCD UPI Ref 8550913096,Food
+swiggy order,Food
+JIO TXN UPI Ref 4297833990,Bills
+ajio order txn 68939,Shopping
+Upi payment myntra#3423,Shopping
+ACT FIBERNET PAYMENT UPI Ref 9840364481,Bills
+pymt mcd UPI Ref 5514704130,Food
+Bescom payment#3852,Bills
+flat rent order txn 16054,Rent
+Pymt airtel#4564,Bills
+airtel payment#4163,Bills
+Pymt d mart txn 63019,Groceries
+Reliance fresh payment UPI Ref 2267156118,Groceries
+Indigo payment#5757,Transport
+upi payment jio id 7579,Bills
+Debit spotify,Entertainment
+pymt consulting id 6388,Salary
+upi payment netflix txn 94702,Entertainment
+Youtube order id 4229,Entertainment
+PYMT PG RENT#6874,Rent
+jio order#9987,Bills
+landlord order#6737,Rent
+upi payment reliance fresh UPI Ref 6377228283,Groceries
+AJIO PAYMENT id 7659,Shopping
+debit jio id 6251,Bills
+debit pg rent#8327,Rent
+pymt apollo pharmacy#2450,Health
+indigo payment,Transport
+debit freelance id 5202,Salary
+Pymt company payroll txn 44406,Salary
+Paid to bank transfer txn 90351,Other
+Pymt dad#7758,Other
+1MG TXN,Health
+upi payment indigo#4695,Transport
+Swiggy payment#4836,Food
+Pymt zepto id 2266,Groceries
+Rapido txn#4523,Transport
+JIO ORDER#3947,Bills
+upi payment fortis#3563,Health
+upi payment reliance fresh UPI Ref 6926822178,Groceries
+paid to reliance fresh txn 57941,Groceries
+pymt amazon UPI Ref 8098303623,Shopping
+Consulting order id 5009,Salary
+Croma order txn 78356,Shopping
+d mart payment,Groceries
+DEBIT COMPANY PAYROLL id 3146,Salary
+DEBIT DAD id 8559,Other
+PYMT APOLLO PHARMACY#3747,Health
+PAID TO D MART,Groceries
+Debit amazon id 9013,Shopping
+Subway order UPI Ref 4695749164,Food
+D mart order txn 25616,Groceries
+landlord txn id 8366,Rent
+JIO PAYMENT UPI Ref 1262132607,Bills
+flipkart txn txn 72835,Shopping
+Upi payment bank transfer UPI Ref 6298515118,Other
+freelance txn UPI Ref 8943444741,Salary
+ZOMATO TXN id 1546,Food
+consulting payment,Salary
+debit company payroll,Salary
+Landlord txn txn 17514,Rent
+rapido txn id 4074,Transport
+Paid to freelance,Salary
+apollo pharmacy order id 3264,Health
+Pymt air india id 9510,Transport
+pymt act fibernet UPI Ref 9367166290,Bills
+paid to pg rent,Rent
+Pymt dominos txn 81349,Food
+Debit practo#4550,Health
+UPI PAYMENT 1MG id 5769,Health
+Pymt d mart id 2707,Groceries
+upi payment spotify UPI Ref 1708406526,Entertainment
+zepto order id 7907,Groceries
+pymt kfc id 4739,Food
+Pg rent payment txn 34706,Rent
+company payroll payment UPI Ref 7728159396,Salary
+Zepto payment,Groceries
+PYMT PG RENT id 9543,Rent
+Debit practo txn 40512,Health
+DEBIT BIGBASKET UPI Ref 5976612886,Groceries
+Pymt pg rent,Rent
+PG RENT ORDER,Rent
+CONSULTING TXN id 8773,Salary
+UPI PAYMENT YOUTUBE id 6222,Entertainment
+Practo txn txn 30424,Health
+BOOKMYSHOW PAYMENT,Entertainment
+Dominos order UPI Ref 7354768520,Food
+Paid to indigo id 1666,Transport
+pymt croma id 4782,Shopping
+pymt act fibernet#1824,Bills
+ZEPTO ORDER,Groceries
+Upi payment reliance fresh#1646,Groceries
+BESCOM TXN#2519,Bills
+Consulting payment id 8730,Salary
+TATA SKY ORDER txn 26859,Bills
+UPI PAYMENT FLAT RENT id 1977,Rent
+uber txn id 6330,Transport
+Irctc payment#1365,Transport
+upi payment act fibernet id 4716,Bills
+Pg rent order id 9364,Rent
+pymt indigo UPI Ref 6450010076,Transport
+FLAT RENT PAYMENT txn 38827,Rent
+uber txn,Transport
+Debit consulting,Salary
+PYMT IRCTC#9586,Transport
+FLAT RENT ORDER UPI Ref 6089280420,Rent
+d mart txn txn 49029,Groceries
+Debit mcd id 5533,Food
+Friend payment id 9863,Other
+Friend order txn 37004,Other
+FREELANCE TXN id 4265,Salary
+Upi payment ola id 7301,Transport
+Zepto payment UPI Ref 3924109764,Groceries
+act fibernet order id 7550,Bills
+Spotify txn,Entertainment
+paid to 1mg txn 28786,Health
+Bank transfer payment,Other
+upi payment flipkart id 5148,Shopping
+upi payment cashback txn 51114,Other
+paid to freelance UPI Ref 3129620292,Salary
+PYMT AIR INDIA UPI Ref 1497800676,Transport
+Debit apollo pharmacy,Health
+Pymt pg rent UPI Ref 6193208813,Rent
+Paid to amazon#7663,Shopping
+amazon order txn 44227,Shopping
+pymt pg rent,Rent
+debit uber txn 98300,Transport
+Pg rent order UPI Ref 8647133898,Rent
+pymt myntra,Shopping
+practo order,Health
+Uber payment#8886,Transport
+UPI PAYMENT DAD txn 13764,Other
+Pymt landlord id 1792,Rent
+Landlord order UPI Ref 5437364894,Rent
+FLIPKART TXN txn 39064,Shopping
+UPI PAYMENT ZEPTO txn 72715,Groceries
+Debit freelance id 3099,Salary
+DEBIT KFC txn 86592,Food
+BANK TRANSFER ORDER id 3028,Other
+1mg txn id 7183,Health
+debit landlord id 4436,Rent
+Apollo pharmacy payment txn 49092,Health
+Fortis payment#4053,Health
+Debit swiggy UPI Ref 1455216728,Food
+Pg rent txn,Rent
+debit flat rent UPI Ref 9064723694,Rent
+AIR INDIA PAYMENT#1003,Transport
+PYMT SPOTIFY#1081,Entertainment
+RELIANCE FRESH TXN txn 75747,Groceries
+Upi payment company payroll#9860,Salary
+debit pg rent UPI Ref 1069740533,Rent
+UPI PAYMENT APOLLO PHARMACY UPI Ref 9879767598,Health
+debit consulting id 5239,Salary
+DEBIT TATA SKY txn 48426,Bills
+FLAT RENT PAYMENT,Rent
+Debit netflix txn 94102,Entertainment
+PAID TO JIO txn 80482,Bills
+paid to company payroll id 5561,Salary
+Paid to pg rent txn 38371,Rent
+Debit d mart#5880,Groceries
+BANK TRANSFER ORDER txn 87647,Other
+pg rent txn txn 61224,Rent
+debit tata sky UPI Ref 1477260254,Bills
+Debit consulting txn 86349,Salary
+debit flat rent id 1259,Rent
+Freelance order id 3992,Salary
+Jiomart txn txn 48723,Groceries
+Subway payment#7724,Food
+Pymt landlord,Rent
+upi payment d mart txn 79657,Groceries
+airtel txn id 6612,Bills
+Paid to flipkart,Shopping
+PAID TO JIOMART id 6232,Groceries
+FORTIS ORDER,Health
+pymt 1mg UPI Ref 7702480896,Health
+Uber order#3097,Transport
+PYMT DOMINOS,Food
+Upi payment practo UPI Ref 1552152797,Health
+Jio payment txn 70168,Bills
+Paid to ajio id 6351,Shopping
+debit fortis id 4906,Health
+cashback payment txn 84298,Other
+CONSULTING ORDER,Salary
+Pymt friend txn 31532,Other
+dominos payment#7308,Food
+ZOMATO ORDER#7714,Food
+Upi payment zomato UPI Ref 9721912955,Food
+Pymt practo#8958,Health
+Paid to fortis id 4689,Health
+pymt kfc id 4783,Food
+DEBIT JIOMART UPI Ref 3132216518,Groceries
+upi payment tata sky,Bills
+FLIPKART PAYMENT,Shopping
+Upi payment practo#8330,Health
+pymt netflix id 9513,Entertainment
+debit uber id 2710,Transport
+FORTIS ORDER UPI Ref 8008892822,Health
+Pymt landlord id 9539,Rent
+Debit jiomart id 8425,Groceries
+Pymt consulting,Salary
+upi payment zomato,Food
+PYMT CASHBACK#9897,Other
+Upi payment flat rent txn 67293,Rent
+Landlord payment UPI Ref 4272197417,Rent
+debit d mart txn 36897,Groceries
+UBER PAYMENT UPI Ref 1753061126,Transport
+Pymt freelance id 7528,Salary
+PAID TO FRIEND UPI Ref 3387040848,Other
+RAPIDO PAYMENT,Transport
+DEBIT AMAZON,Shopping
+UPI PAYMENT PIZZA HUT UPI Ref 3074763611,Food
+PAID TO LANDLORD UPI Ref 5777703826,Rent
+UPI PAYMENT IRCTC UPI Ref 7858389625,Transport
+Debit cashback UPI Ref 5654335842,Other
+BESCOM ORDER UPI Ref 8746389245,Bills
+pg rent order#3505,Rent
+paid to netflix id 7553,Entertainment
+debit company payroll id 7916,Salary
+Ola order txn 75062,Transport
+Landlord txn txn 68452,Rent
+Youtube txn#6043,Entertainment
+flat rent order,Rent
+UPI PAYMENT CROMA txn 93761,Shopping
+AMAZON PAYMENT UPI Ref 9195535594,Shopping
+Pymt bescom UPI Ref 3129856355,Bills
+jiomart order#3355,Groceries
+company payroll order id 9327,Salary
+practo order UPI Ref 4703958643,Health
+UBER PAYMENT#4681,Transport
+Bookmyshow order UPI Ref 1701277072,Entertainment
+PAID TO AIRTEL#9873,Bills
+DAD ORDER,Other
+flipkart order txn 13390,Shopping
+debit consulting id 7341,Salary
+1MG ORDER#4382,Health
+Paid to zepto#8840,Groceries
+pymt act fibernet UPI Ref 4405226524,Bills
+DEBIT BESCOM UPI Ref 2175431712,Bills
+D mart payment id 9127,Groceries
+COMPANY PAYROLL TXN UPI Ref 7647710832,Salary
+BIGBASKET PAYMENT UPI Ref 4092750335,Groceries
+DEBIT CROMA#3736,Shopping
+bescom payment id 7167,Bills
+Debit landlord id 6893,Rent
+paid to cashback UPI Ref 6873982539,Other
+Pymt youtube txn 73983,Entertainment
+1mg order id 2464,Health
+PYMT MYNTRA#1514,Shopping
+ZEPTO PAYMENT UPI Ref 2642578902,Groceries
+Uber txn txn 91798,Transport
+Paid to apollo pharmacy#3286,Health
+UPI PAYMENT SPOTIFY UPI Ref 1668531082,Entertainment
+jiomart payment id 3569,Groceries
+tata sky order UPI Ref 7709970904,Bills
+APOLLO PHARMACY ORDER UPI Ref 8070336566,Health
+Debit apollo pharmacy txn 68550,Health
+UPI PAYMENT PIZZA HUT id 7711,Food
+Pymt airtel id 3405,Bills
+uber txn txn 96277,Transport
+debit act fibernet txn 27114,Bills
+Friend txn#2047,Other
+PAID TO FRIEND UPI Ref 6924913145,Other
+Spotify order txn 57642,Entertainment
+PAID TO AJIO#9554,Shopping
+pymt bescom UPI Ref 1755754476,Bills
+UPI PAYMENT RELIANCE FRESH#6572,Groceries
+upi payment dad id 1798,Other
+jio order txn 40262,Bills
+consulting order id 2480,Salary
+Pymt pg rent#8594,Rent
+paid to friend#6326,Other
+UBER TXN UPI Ref 1235510596,Transport
+DEBIT FLAT RENT UPI Ref 2477752395,Rent
+landlord txn#4758,Rent
+Dad txn#8237,Other
+Amazon payment id 1871,Shopping
+Debit d mart UPI Ref 5214662521,Groceries
+Paid to indigo UPI Ref 3104951842,Transport
+Friend payment,Other
+Pymt ola#9287,Transport
+Debit consulting#5539,Salary
+apollo pharmacy txn,Health
+COMPANY PAYROLL PAYMENT,Salary
+pymt d mart,Groceries
+paid to myntra#1101,Shopping
+PAID TO NETFLIX txn 39170,Entertainment
+pymt 1mg txn 82678,Health
+AJIO PAYMENT id 8121,Shopping
+Flipkart payment,Shopping
+UPI PAYMENT AIR INDIA,Transport
+Apollo pharmacy order#5511,Health
+Debit flat rent#8155,Rent
+dad order txn 75821,Other
+MCD ORDER id 9467,Food
+reliance fresh order txn 28997,Groceries
+DEBIT CONSULTING id 1216,Salary
+Paid to mcd#3193,Food
+debit cashback id 6446,Other
+Bookmyshow order id 2697,Entertainment
+debit amazon id 1806,Shopping
+pymt jio#4318,Bills
+TATA SKY ORDER UPI Ref 8087917510,Bills
+Apollo pharmacy payment id 4390,Health
+Paid to indigo,Transport
+FLAT RENT TXN,Rent
+Debit apollo pharmacy id 7084,Health
+Freelance txn id 4487,Salary
+1mg payment id 2791,Health
+debit dominos id 7860,Food
+upi payment bookmyshow id 3423,Entertainment
+Debit flat rent#6547,Rent
+PG RENT PAYMENT#4946,Rent
+reliance fresh order#8732,Groceries
+upi payment act fibernet,Bills
+Reliance fresh order txn 93746,Groceries
+UPI PAYMENT CASHBACK,Other
+Pymt cashback txn 94624,Other
+Cashback txn id 4235,Other
+paid to youtube id 1279,Entertainment
+air india txn#5692,Transport
+Paid to youtube id 3295,Entertainment
+Debit apollo pharmacy#4843,Health
+NETFLIX ORDER txn 70873,Entertainment
+ZEPTO ORDER#8616,Groceries
+Pymt mcd id 4901,Food
+upi payment dad txn 90696,Other
+PYMT BANK TRANSFER,Other
+Air india payment UPI Ref 5945832869,Transport
+Flipkart txn,Shopping
+DOMINOS TXN txn 45148,Food
+PRACTO PAYMENT,Health
+DEBIT AIR INDIA txn 24237,Transport
+Dominos order txn 70769,Food
+paid to practo txn 43609,Health
+UPI PAYMENT LANDLORD#4820,Rent
+cashback txn id 9027,Other
+Irctc txn id 6503,Transport
+PYMT D MART,Groceries
+upi payment cashback,Other
+Pymt freelance txn 12129,Salary
+Freelance payment txn 29249,Salary
+Paid to consulting id 2309,Salary
+UPI PAYMENT IRCTC id 4123,Transport
+spotify payment id 3009,Entertainment
+PYMT LANDLORD UPI Ref 2702363285,Rent
+PYMT DAD,Other
+SUBWAY ORDER txn 61385,Food
+fortis payment,Health
+Zepto payment#9290,Groceries
+CROMA PAYMENT UPI Ref 5105313793,Shopping
+Bookmyshow txn txn 38442,Entertainment
+myntra payment UPI Ref 7013367270,Shopping
+Upi payment d mart UPI Ref 5153880454,Groceries
+debit indigo id 7801,Transport
+rapido payment id 1398,Transport
+UPI PAYMENT D MART#4435,Groceries
+DEBIT CONSULTING#5499,Salary
+debit tata sky,Bills
+Croma txn#1825,Shopping
+DEBIT PRACTO UPI Ref 9414478495,Health
+Pg rent txn,Rent
+PAID TO FREELANCE txn 21615,Salary
+Freelance txn,Salary
+upi payment dad,Other
+DEBIT MYNTRA id 2982,Shopping
+debit tata sky UPI Ref 3246814608,Bills
+APOLLO PHARMACY PAYMENT#4876,Health
+PAID TO BOOKMYSHOW,Entertainment
+zomato txn UPI Ref 3481903982,Food
+pymt pg rent UPI Ref 1380755035,Rent
+PAID TO MCD,Food
+DEBIT JIO,Bills
+PAID TO RELIANCE FRESH UPI Ref 1613070426,Groceries
+Paid to youtube txn 77973,Entertainment
+UPI PAYMENT CASHBACK,Other
+Pymt flat rent txn 31593,Rent
+MCD ORDER UPI Ref 6720859815,Food
+upi payment indigo id 1900,Transport
+Airtel txn id 9133,Bills
+debit fortis UPI Ref 7086215147,Health
+JIOMART ORDER id 5225,Groceries
+PAID TO MYNTRA id 5922,Shopping
+Pymt tata sky UPI Ref 5592361489,Bills
+Pymt landlord,Rent
+Paid to zomato id 3577,Food
+Debit flat rent txn 28539,Rent
+Paid to pg rent#4411,Rent
+Debit uber id 8799,Transport
+d mart payment#8810,Groceries
+Zepto txn txn 60993,Groceries
+SUBWAY TXN UPI Ref 2813950066,Food
+Pymt zepto UPI Ref 1130443800,Groceries
+PAID TO PG RENT,Rent
+Pizza hut order,Food
+NETFLIX TXN,Entertainment
+paid to youtube id 9218,Entertainment
+paid to amazon UPI Ref 2595151380,Shopping
+Upi payment practo#1039,Health
+paid to mcd#6254,Food
+DEBIT PRACTO,Health
+paid to jio,Bills
+1mg txn,Health
+Spotify payment id 1944,Entertainment
+pymt bigbasket txn 86675,Groceries
+tata sky order#9658,Bills
+Debit rapido UPI Ref 1088531703,Transport
+freelance payment#4959,Salary
+Upi payment air india txn 13669,Transport
+Upi payment 1mg id 6932,Health
+upi payment airtel id 2561,Bills
+Debit youtube id 4624,Entertainment
+PAID TO FREELANCE UPI Ref 8813798602,Salary
+paid to airtel id 5644,Bills
+PAID TO FREELANCE UPI Ref 6672525565,Salary
+DEBIT BANK TRANSFER id 6154,Other
+Cashback payment id 1512,Other
+Debit reliance fresh txn 68173,Groceries
+Debit youtube#8155,Entertainment
+PAID TO ZOMATO,Food
+FLIPKART PAYMENT txn 98821,Shopping
+DEBIT SWIGGY txn 39884,Food
+zomato payment id 8035,Food
+AMAZON TXN#1114,Shopping
+Upi payment apollo pharmacy#7402,Health
+PAID TO AMAZON#7587,Shopping
+paid to cashback id 7179,Other
+ACT FIBERNET PAYMENT#3666,Bills
+DEBIT FREELANCE UPI Ref 1098693425,Salary
+Debit tata sky#3301,Bills
+upi payment apollo pharmacy UPI Ref 8766835513,Health
+upi payment ajio id 9671,Shopping
+APOLLO PHARMACY PAYMENT txn 29086,Health
+Pymt pg rent#6117,Rent
+Pymt landlord UPI Ref 8049859550,Rent
+Pymt swiggy,Food
+UPI PAYMENT DAD,Other
+Amazon order txn 90961,Shopping
+Bank transfer payment id 7032,Other
+Debit jiomart txn 93712,Groceries
+1mg order txn 92938,Health
+jiomart payment txn 27299,Groceries
+pg rent payment UPI Ref 3042871871,Rent
+upi payment act fibernet UPI Ref 8385948314,Bills
+Spotify txn,Entertainment
+debit flat rent#9140,Rent
+Paid to freelance#7738,Salary
+Upi payment jiomart,Groceries
+Pg rent order txn 53439,Rent
+Upi payment dad UPI Ref 9960092968,Other
+Jiomart payment txn 79854,Groceries
+Practo payment txn 49552,Health
+DEBIT AMAZON UPI Ref 3946591630,Shopping
+Bank transfer payment txn 18807,Other
+upi payment fortis id 7607,Health
+Pymt myntra id 8090,Shopping
+TATA SKY ORDER#3960,Bills
+PYMT PIZZA HUT id 9720,Food
+paid to air india UPI Ref 4863915200,Transport
+DEBIT CASHBACK UPI Ref 3744889662,Other
+DEBIT ZEPTO id 7077,Groceries
+spotify txn UPI Ref 2428488743,Entertainment
+Debit cashback#2222,Other
+Landlord txn UPI Ref 8667921645,Rent
+paid to bank transfer#9418,Other
+debit apollo pharmacy#1443,Health
+Fortis order id 9823,Health
+DEBIT LANDLORD txn 44550,Rent
+BESCOM PAYMENT id 5026,Bills
+pymt cashback,Other
+paid to bigbasket#5384,Groceries
+upi payment cashback UPI Ref 2056810954,Other
+RAPIDO TXN#7897,Transport
+bigbasket txn id 5854,Groceries
+Paid to apollo pharmacy,Health
+Paid to jio,Bills
+DEBIT ZEPTO#9654,Groceries
+paid to jio txn 85804,Bills
+Croma payment UPI Ref 7802746762,Shopping
+KFC TXN id 2105,Food
+Bescom txn id 8648,Bills
+Debit bank transfer UPI Ref 8005830807,Other
+Consulting txn UPI Ref 3698217615,Salary
+debit zepto#2134,Groceries
+PYMT CONSULTING txn 88296,Salary
+D MART PAYMENT txn 13456,Groceries
+bank transfer order#7864,Other
+Pymt flipkart txn 94220,Shopping
+JIO PAYMENT txn 67743,Bills
+dad payment#6075,Other
+paid to fortis UPI Ref 3250504810,Health
+Fortis order UPI Ref 4007648874,Health
+practo payment UPI Ref 8463627766,Health
+friend order#6878,Other
+indigo txn id 2843,Transport
+Upi payment apollo pharmacy id 1485,Health
+UPI PAYMENT BANK TRANSFER,Other
+TATA SKY ORDER#4605,Bills
+PAID TO IRCTC,Transport
+dominos order#2823,Food
+upi payment subway txn 13586,Food
+irctc order,Transport
+PYMT FORTIS id 9333,Health
+RAPIDO TXN id 4600,Transport
+PAID TO CASHBACK txn 98224,Other
+zepto payment txn 98511,Groceries
+PYMT ZOMATO UPI Ref 2328165821,Food
+landlord payment id 9390,Rent
+MCD ORDER,Food
+CROMA ORDER UPI Ref 6927314557,Shopping
+YOUTUBE ORDER txn 98631,Entertainment
+Paid to amazon#5930,Shopping
+UPI PAYMENT COMPANY PAYROLL,Salary
+netflix txn txn 49011,Entertainment
+UPI PAYMENT ZEPTO UPI Ref 7100163085,Groceries
+Debit company payroll#3463,Salary
+practo order id 5853,Health
+upi payment uber txn 69980,Transport
+FLAT RENT ORDER txn 23671,Rent
+D MART PAYMENT,Groceries
+PYMT 1MG#5319,Health
+debit friend UPI Ref 2612650245,Other
+Paid to bookmyshow#7320,Entertainment
+ola txn,Transport
+Upi payment bookmyshow UPI Ref 9476579192,Entertainment
+PYMT PRACTO txn 63375,Health
+pymt landlord txn 71141,Rent
+upi payment fortis UPI Ref 4992852984,Health
+bank transfer order#5260,Other
+PRACTO ORDER UPI Ref 4656613160,Health
+ajio txn UPI Ref 5361426270,Shopping
+Rapido payment#5298,Transport
+Company payroll txn id 6283,Salary
+Paid to netflix UPI Ref 3251679808,Entertainment
+Debit pg rent#9319,Rent
+Paid to 1mg#9856,Health
+BESCOM TXN UPI Ref 8414111515,Bills
+PG RENT TXN txn 37359,Rent
+paid to bescom UPI Ref 8528406827,Bills
+reliance fresh payment UPI Ref 2002443232,Groceries
+Freelance order txn 20358,Salary
+debit pg rent txn 40630,Rent
+pymt youtube UPI Ref 2922114608,Entertainment
+ZEPTO ORDER txn 39833,Groceries
+bescom payment UPI Ref 1401511312,Bills
+practo payment id 1926,Health
+youtube txn#9943,Entertainment
+debit cashback UPI Ref 2388619918,Other
+DEBIT BOOKMYSHOW txn 34473,Entertainment
+CONSULTING TXN UPI Ref 5639945569,Salary
+BOOKMYSHOW TXN#9952,Entertainment
+Company payroll txn txn 38224,Salary
+Reliance fresh order#3999,Groceries
+DEBIT FRIEND id 1380,Other
+Practo txn,Health
+Bookmyshow order UPI Ref 4361737429,Entertainment
+Paid to bookmyshow UPI Ref 3758670963,Entertainment
+Debit d mart,Groceries
+Indigo payment txn 30710,Transport
+pizza hut order UPI Ref 5540052747,Food
+upi payment rapido#2880,Transport
+Upi payment fortis#3984,Health
+Croma txn txn 41628,Shopping
+debit youtube UPI Ref 2608204413,Entertainment
+YOUTUBE PAYMENT#2558,Entertainment
+pymt amazon id 1636,Shopping
+UBER ORDER#9486,Transport
+PYMT MCD,Food
+Upi payment jiomart,Groceries
+pymt spotify txn 87533,Entertainment
+airtel txn txn 55667,Bills
+fortis payment#2890,Health
+DEBIT OLA txn 97657,Transport
+PAID TO NETFLIX txn 91204,Entertainment
+Pymt jio UPI Ref 7528271719,Bills
+SPOTIFY TXN#2786,Entertainment
+dad order,Other
+upi payment practo txn 53786,Health
+zomato txn UPI Ref 3421237456,Food
+friend txn,Other
+DEBIT FREELANCE#2268,Salary
+netflix txn id 9440,Entertainment
+UPI PAYMENT LANDLORD#5258,Rent
+upi payment flat rent id 3593,Rent
+UPI PAYMENT SPOTIFY#7802,Entertainment
+pymt fortis UPI Ref 6491394002,Health
+Paid to practo UPI Ref 8356873169,Health
+Paid to bank transfer UPI Ref 9862070999,Other
+Debit bookmyshow id 5370,Entertainment
+Upi payment 1mg txn 96891,Health
+PAID TO IRCTC,Transport
+consulting payment UPI Ref 1399272792,Salary
+MCD ORDER,Food
+croma payment id 4066,Shopping
+PAID TO JIOMART id 4146,Groceries
+Debit pg rent txn 20451,Rent
+FREELANCE ORDER id 8789,Salary
+Debit airtel#2631,Bills
+Debit freelance id 1990,Salary
+UPI PAYMENT PRACTO UPI Ref 5506129380,Health
+DEBIT DAD txn 22616,Other
+UBER PAYMENT#4437,Transport
+Airtel txn txn 80332,Bills
+UPI PAYMENT PRACTO txn 54131,Health
+Paid to ajio#5484,Shopping
+Debit netflix,Entertainment
+UPI PAYMENT SPOTIFY txn 96699,Entertainment
+Debit amazon id 4597,Shopping
+Dominos order,Food
+Paid to friend#1501,Other
+bescom txn id 1330,Bills
+dominos txn#2247,Food
+Pymt company payroll id 6207,Salary
+Debit amazon UPI Ref 5597127180,Shopping
+bigbasket order txn 86643,Groceries
+netflix txn#5368,Entertainment
+paid to spotify,Entertainment
+UPI PAYMENT CASHBACK id 8625,Other
+DEBIT YOUTUBE UPI Ref 3107263260,Entertainment
+landlord order#1688,Rent
+DEBIT D MART txn 40343,Groceries
+pg rent txn,Rent
+PYMT AMAZON,Shopping
+Pymt swiggy UPI Ref 2137800884,Food
+AIR INDIA TXN UPI Ref 1670944931,Transport
+paid to flat rent,Rent
+Pymt myntra#7108,Shopping
+consulting order id 4846,Salary
+PAID TO PRACTO txn 74594,Health
+JIO PAYMENT txn 33604,Bills
+DOMINOS ORDER id 4158,Food
+Upi payment airtel#5290,Bills
+JIOMART ORDER#6246,Groceries
+irctc order UPI Ref 1029134666,Transport
+amazon order txn 46249,Shopping
+Paid to jiomart txn 32218,Groceries
+Debit fortis#2561,Health
+Freelance txn UPI Ref 4336169763,Salary
+Act fibernet payment txn 17263,Bills
+PYMT FORTIS txn 34588,Health
+PAID TO NETFLIX,Entertainment
+paid to tata sky txn 95451,Bills
+debit netflix#4914,Entertainment
+APOLLO PHARMACY ORDER,Health
+AJIO PAYMENT UPI Ref 6612929227,Shopping
+Upi payment air india#4301,Transport
+LANDLORD ORDER,Rent
+zepto payment UPI Ref 7930471758,Groceries
+PAID TO CASHBACK#7267,Other
+dominos payment txn 48070,Food
+1mg payment#1120,Health
+upi payment croma,Shopping
+PAID TO BESCOM txn 81018,Bills
+upi payment irctc txn 33309,Transport
+DEBIT D MART#9678,Groceries
+DEBIT PRACTO txn 35979,Health
+RAPIDO ORDER#5391,Transport
+Debit cashback#4669,Other
+FLAT RENT ORDER#7717,Rent
+Netflix order txn 51813,Entertainment
+pymt consulting id 1212,Salary
+Landlord payment#3258,Rent
+Bigbasket txn id 7446,Groceries
+PAID TO FREELANCE,Salary
+upi payment netflix id 3333,Entertainment
+Upi payment landlord id 6849,Rent
+MYNTRA PAYMENT UPI Ref 5686596483,Shopping
+Paid to consulting id 1267,Salary
+reliance fresh payment,Groceries
+pymt practo id 1483,Health
+company payroll order#3395,Salary
+Pymt airtel,Bills
+PAID TO FLIPKART UPI Ref 3397403643,Shopping
+Pymt company payroll,Salary
+DEBIT JIOMART txn 64734,Groceries
+debit rapido txn 64425,Transport
+debit pg rent,Rent
+Croma order,Shopping
+spotify payment txn 98427,Entertainment
+upi payment uber id 7777,Transport
+PYMT AJIO id 9842,Shopping
+Upi payment subway UPI Ref 7239288405,Food
+COMPANY PAYROLL PAYMENT UPI Ref 8888231467,Salary
+Company payroll txn#5247,Salary
+Flat rent payment txn 89858,Rent
+upi payment airtel id 9823,Bills
+Pymt jiomart#6936,Groceries
+cashback payment id 3315,Other
+friend order#6468,Other
+upi payment airtel id 8754,Bills
+JIOMART ORDER id 9901,Groceries
+Upi payment freelance id 4081,Salary
+Paid to reliance fresh txn 22885,Groceries
+Debit dad,Other
+Debit kfc,Food
+PAID TO BANK TRANSFER id 4141,Other
+friend order UPI Ref 3307582629,Other
+Paid to myntra txn 85982,Shopping
+Debit freelance,Salary
+upi payment amazon UPI Ref 8193294850,Shopping
+Freelance order,Salary
+Upi payment indigo#9471,Transport
+Pizza hut txn UPI Ref 6240868588,Food
+company payroll payment txn 83082,Salary
+Freelance order#7071,Salary
+Pymt dad UPI Ref 9151834181,Other
+subway txn txn 77803,Food
+freelance payment UPI Ref 2246264243,Salary
+debit cashback,Other
+swiggy txn id 7766,Food
+paid to apollo pharmacy txn 57572,Health
+myntra txn id 4453,Shopping
+MYNTRA PAYMENT,Shopping
+netflix payment txn 15999,Entertainment
+Flat rent txn,Rent
+Debit landlord,Rent
+pymt jio#8048,Bills
+UPI PAYMENT DAD#6138,Other
+AIR INDIA TXN UPI Ref 5082114696,Transport
+Uber txn,Transport
+DAD TXN txn 51835,Other
+upi payment ajio txn 47564,Shopping
+pymt company payroll#7570,Salary
+PAID TO RELIANCE FRESH#2176,Groceries
+Paid to reliance fresh#9623,Groceries
+fortis order UPI Ref 7521165319,Health
+Zepto txn,Groceries
+Pymt company payroll UPI Ref 6886508565,Salary
+spotify order txn 97599,Entertainment
+DEBIT RAPIDO txn 57201,Transport
+DEBIT MCD UPI Ref 5557562506,Food
+flat rent order UPI Ref 5853434487,Rent
+DEBIT JIOMART id 7697,Groceries
+subway txn txn 24143,Food
+FRIEND TXN,Other
+UPI PAYMENT 1MG,Health
+Debit pg rent,Rent
+Netflix txn id 7485,Entertainment
+pymt company payroll id 8400,Salary
+upi payment uber UPI Ref 9619336992,Transport
+subway txn#6824,Food
+company payroll order#1501,Salary
+PG RENT TXN UPI Ref 3145126059,Rent
+Upi payment rapido#2315,Transport
+landlord order#8585,Rent
+Freelance txn id 3360,Salary
+pymt dad#5193,Other
+paid to irctc UPI Ref 1169977428,Transport
+upi payment myntra#7100,Shopping
+PYMT CONSULTING txn 63211,Salary
+Upi payment bigbasket UPI Ref 7619955147,Groceries
+upi payment amazon id 4319,Shopping
+Zomato payment,Food
+FREELANCE PAYMENT id 2547,Salary
+uber txn txn 64129,Transport
+dad txn#6477,Other
+AIRTEL ORDER,Bills
+BIGBASKET TXN UPI Ref 8218811890,Groceries
+Paid to jiomart,Groceries
+PG RENT ORDER id 6074,Rent
+DEBIT SUBWAY id 8022,Food
+JIOMART TXN,Groceries
+Apollo pharmacy txn txn 61950,Health
+UPI PAYMENT AIR INDIA,Transport
+upi payment spotify txn 10830,Entertainment
+DEBIT IRCTC UPI Ref 6933642474,Transport
+Debit company payroll,Salary
+UPI PAYMENT APOLLO PHARMACY#8188,Health
+pymt friend UPI Ref 9040881178,Other
+Pymt flipkart id 7293,Shopping
+Paid to bank transfer txn 90935,Other
+subway txn,Food
+UPI PAYMENT FRIEND txn 78213,Other
+debit bookmyshow#4155,Entertainment
+debit pizza hut#2597,Food
+Amazon txn txn 53019,Shopping
+PAID TO BANK TRANSFER txn 18739,Other
+pymt ajio#1948,Shopping
+Dad payment,Other
+1mg payment#3680,Health
+Ola order txn 18016,Transport
+paid to zomato,Food
+IRCTC ORDER txn 45239,Transport
+landlord payment id 6953,Rent
+AJIO ORDER txn 30363,Shopping
+Debit flipkart,Shopping
+Flipkart order UPI Ref 6926187438,Shopping
+PYMT PG RENT,Rent
+Subway order UPI Ref 8551684477,Food
+PYMT MCD UPI Ref 4080675954,Food
+Pymt 1mg#1362,Health
+jiomart payment txn 58236,Groceries
+Paid to bookmyshow id 3246,Entertainment
+netflix payment#8481,Entertainment
+Pymt tata sky UPI Ref 6776300449,Bills
+upi payment zepto id 9203,Groceries
+AJIO PAYMENT,Shopping
+Debit bookmyshow,Entertainment
+Dad payment,Other
+Debit landlord txn 54886,Rent
+paid to friend,Other
+Cashback order UPI Ref 2087296638,Other
+freelance payment,Salary
+PG RENT ORDER#4221,Rent
+Flipkart payment txn 68645,Shopping
+Paid to ola,Transport
+FRIEND TXN txn 13997,Other
+Bookmyshow txn txn 49703,Entertainment
+DEBIT FORTIS#6921,Health
+paid to flat rent,Rent
+DOMINOS PAYMENT,Food
+PYMT ZEPTO,Groceries
+upi payment flipkart,Shopping
+upi payment consulting,Salary
+UPI PAYMENT COMPANY PAYROLL UPI Ref 9883604992,Salary
+PAID TO COMPANY PAYROLL id 8257,Salary
+Pymt dad UPI Ref 4161514652,Other
+PRACTO PAYMENT UPI Ref 3801092890,Health
+paid to consulting txn 87698,Salary
+AIR INDIA TXN txn 34367,Transport
+UPI PAYMENT BANK TRANSFER id 8137,Other
+SWIGGY ORDER,Food
+Debit cashback#7402,Other
+upi payment cashback id 9893,Other
+DEBIT D MART txn 63302,Groceries
+YOUTUBE TXN#7116,Entertainment
+practo payment txn 26373,Health
+air india payment id 3737,Transport
+act fibernet payment txn 38820,Bills
+PYMT CROMA,Shopping
+paid to rapido txn 89214,Transport
+PAID TO ACT FIBERNET UPI Ref 9155212817,Bills
+PAID TO DOMINOS id 2660,Food
+pymt uber txn 80273,Transport
+bigbasket order UPI Ref 4978970460,Groceries
+upi payment dad id 7564,Other
+paid to swiggy UPI Ref 7740165199,Food
+DEBIT AIRTEL#5818,Bills
+Company payroll order,Salary
+Company payroll txn,Salary
+Upi payment landlord id 4504,Rent
+PYMT YOUTUBE,Entertainment
+Debit subway txn 12243,Food
+pymt fortis id 3207,Health
+Debit friend#5797,Other
+PYMT LANDLORD UPI Ref 1523485382,Rent
+Rapido txn#3479,Transport
+CROMA ORDER#4795,Shopping
+paid to rapido UPI Ref 1671465914,Transport
+upi payment amazon id 2179,Shopping
+Pymt myntra txn 24018,Shopping
+paid to zepto#3071,Groceries
+pymt flipkart#2681,Shopping
+pymt zepto id 4097,Groceries
+pymt pizza hut,Food
+DEBIT FREELANCE,Salary
+upi payment uber txn 25313,Transport
+act fibernet txn#8943,Bills
+Upi payment youtube id 4353,Entertainment
+Paid to airtel#1758,Bills
+PAID TO COMPANY PAYROLL txn 48027,Salary
+Dad order UPI Ref 9362304292,Other
+FLIPKART PAYMENT id 8644,Shopping
+PYMT FLAT RENT UPI Ref 6645466116,Rent
+upi payment tata sky id 8983,Bills
+pymt company payroll,Salary
+1mg txn,Health
+DEBIT RAPIDO txn 55471,Transport
+Paid to landlord txn 92675,Rent
+PYMT FRIEND,Other
+Debit airtel#8589,Bills
+UPI PAYMENT D MART UPI Ref 2209047568,Groceries
+pymt flipkart UPI Ref 8075481678,Shopping
+Landlord order UPI Ref 7046027050,Rent
+D mart payment#6496,Groceries
+paid to swiggy UPI Ref 7987020746,Food
+Paid to freelance UPI Ref 6334499820,Salary
+d mart order UPI Ref 8381110537,Groceries
+PAID TO NETFLIX UPI Ref 5636806037,Entertainment
+Debit act fibernet id 1130,Bills
+DEBIT FLIPKART txn 61201,Shopping
+DEBIT LANDLORD txn 33001,Rent
+PYMT DAD txn 15285,Other
+Pymt jio txn 31710,Bills
+reliance fresh payment UPI Ref 4051688160,Groceries
+APOLLO PHARMACY ORDER txn 77524,Health
+Debit fortis,Health
+Debit company payroll txn 16973,Salary
+amazon txn,Shopping
+DEBIT FORTIS txn 80943,Health
+Irctc order id 4333,Transport
+Zomato txn#3454,Food
+upi payment friend#5994,Other
+Dad txn UPI Ref 4205795120,Other
+netflix payment#8636,Entertainment
+Bookmyshow order#5115,Entertainment
+Cashback txn,Other
+PAID TO BESCOM id 3931,Bills
+Paid to bookmyshow id 5560,Entertainment
+debit company payroll UPI Ref 1484480003,Salary
+Jiomart payment,Groceries
+paid to ola UPI Ref 3025770928,Transport
+UPI PAYMENT DAD id 6134,Other
+PAID TO AJIO#2022,Shopping
+PYMT AMAZON id 7248,Shopping
+CONSULTING TXN#8608,Salary
+Pymt kfc id 6888,Food
+UPI PAYMENT NETFLIX UPI Ref 4341603087,Entertainment
+youtube payment id 1992,Entertainment
+landlord payment id 5121,Rent
+BIGBASKET TXN#6313,Groceries
+DEBIT FRIEND id 7617,Other
+zepto txn id 7958,Groceries
+AIRTEL TXN,Bills
+Pymt swiggy id 4929,Food
+DEBIT YOUTUBE txn 28504,Entertainment
+company payroll payment txn 69589,Salary
+pymt landlord txn 25319,Rent
+upi payment swiggy id 8454,Food
+PAID TO OLA id 5004,Transport
+Debit reliance fresh txn 99553,Groceries
+1mg order id 1558,Health
+DEBIT SUBWAY txn 99271,Food
+Company payroll order id 3910,Salary
+myntra payment id 5683,Shopping
+pizza hut payment UPI Ref 8432022601,Food
+Upi payment freelance UPI Ref 1873678011,Salary
+upi payment pg rent txn 92431,Rent
+FREELANCE TXN txn 24270,Salary
+Friend payment id 6308,Other
+rapido order UPI Ref 6037761782,Transport
+Paid to consulting#3488,Salary
+Fortis txn txn 59930,Health
+Pg rent payment,Rent
+bescom order id 1540,Bills
+youtube payment id 8617,Entertainment
+paid to air india id 8915,Transport
+Paid to bigbasket UPI Ref 6560014593,Groceries
+upi payment fortis,Health
+consulting payment id 9995,Salary
+ACT FIBERNET PAYMENT txn 72683,Bills
+spotify txn id 8844,Entertainment
+FRIEND ORDER,Other
+ZOMATO ORDER#3296,Food
+paid to d mart id 2868,Groceries
+debit jiomart UPI Ref 8502121213,Groceries
+bigbasket order id 9681,Groceries
+Pymt zomato,Food
+spotify txn txn 90326,Entertainment
+Freelance txn#6925,Salary
+Paid to zomato txn 82342,Food
+Bank transfer order id 9870,Other
+paid to cashback id 6225,Other
+PYMT FORTIS,Health
+Paid to jio#7159,Bills
+Debit air india,Transport
+debit youtube txn 43133,Entertainment
+Ola order id 5161,Transport
+AJIO ORDER UPI Ref 7901698963,Shopping
+paid to ajio#8934,Shopping
+Paid to landlord txn 17128,Rent
+Upi payment fortis txn 99751,Health
+Debit kfc#8818,Food
+upi payment jio,Bills
+Paid to friend UPI Ref 4522473001,Other
+Freelance order,Salary
+Upi payment croma#1749,Shopping
+DEBIT NETFLIX id 8156,Entertainment
+Debit 1mg id 5724,Health
+NETFLIX TXN id 9394,Entertainment
+debit freelance#7647,Salary
+paid to act fibernet txn 43751,Bills
+Paid to dad id 3264,Other
+upi payment 1mg UPI Ref 9542254804,Health
+PAID TO AIR INDIA#4393,Transport
+UPI PAYMENT MCD id 6366,Food
+Debit uber#3592,Transport
+Upi payment pg rent txn 34648,Rent
+Debit zepto id 4239,Groceries
+PAID TO IRCTC,Transport
+upi payment fortis id 8654,Health
+Upi payment croma#3210,Shopping
+PYMT PRACTO UPI Ref 3850266121,Health
+JIOMART PAYMENT#9469,Groceries
+Netflix order id 9548,Entertainment
+debit spotify txn 70883,Entertainment
+pymt apollo pharmacy id 2260,Health
+upi payment jio#3098,Bills
+PYMT BANK TRANSFER txn 99743,Other
+Apollo pharmacy payment id 3774,Health
+BESCOM ORDER,Bills
+ACT FIBERNET TXN UPI Ref 2886407840,Bills
+Subway txn id 1222,Food
+bigbasket payment txn 24181,Groceries
+fortis payment id 9923,Health
+PAID TO LANDLORD id 9873,Rent
+debit youtube UPI Ref 5454440467,Entertainment
+DEBIT FREELANCE#7897,Salary
+Pymt flat rent#8291,Rent
+DEBIT CONSULTING UPI Ref 1539599538,Salary
+pymt subway UPI Ref 1506936019,Food
+DEBIT DAD#5226,Other
+jio txn,Bills
+debit jio#3436,Bills
+PAID TO ZEPTO UPI Ref 4490565509,Groceries
+Mcd txn txn 11514,Food
+Pymt bank transfer UPI Ref 7823477335,Other
+kfc order UPI Ref 5755847706,Food
+UPI PAYMENT 1MG id 6394,Health
+fortis payment id 5548,Health
+upi payment jiomart UPI Ref 6853797387,Groceries
+practo order id 1075,Health
+debit swiggy id 6146,Food
+pymt fortis UPI Ref 1666854851,Health
+pymt youtube,Entertainment
+DEBIT RAPIDO id 1775,Transport
+upi payment company payroll#6240,Salary
+tata sky order txn 43605,Bills
+airtel order#3922,Bills
+DEBIT TATA SKY id 4515,Bills
+Upi payment mcd txn 35930,Food
+Upi payment dominos txn 38213,Food
+AJIO ORDER txn 64636,Shopping
+DEBIT SPOTIFY#6028,Entertainment
+Flat rent payment,Rent
+myntra payment txn 66518,Shopping
+CASHBACK TXN txn 54692,Other
+uber txn UPI Ref 1858812737,Transport
+pymt fortis id 7293,Health
+PAID TO UBER,Transport
+upi payment flat rent,Rent
+Zepto order id 9442,Groceries
+Debit practo,Health
+upi payment bescom txn 11542,Bills
+upi payment jio txn 53335,Bills
+paid to cashback txn 49272,Other
+upi payment 1mg#9381,Health
+Upi payment consulting UPI Ref 9658775360,Salary
+Dad payment UPI Ref 3620129573,Other
+debit jio txn 23675,Bills
+practo txn txn 61139,Health
+debit pg rent id 6949,Rent
+Jiomart order id 1049,Groceries
+debit consulting txn 58966,Salary
+YOUTUBE TXN id 1439,Entertainment
+UPI PAYMENT AIR INDIA,Transport
+Flat rent txn#1920,Rent
+rapido payment#3310,Transport
+paid to practo id 1090,Health
+PAID TO BIGBASKET#3676,Groceries
+PAID TO MCD id 2865,Food
+PAID TO MYNTRA id 9187,Shopping
+pymt tata sky UPI Ref 1443973207,Bills
+paid to croma txn 59202,Shopping
+debit myntra,Shopping
+ZEPTO ORDER id 3664,Groceries
+upi payment flat rent UPI Ref 8115067104,Rent
+Jiomart payment,Groceries
+RAPIDO TXN UPI Ref 3298562866,Transport
+PAID TO IRCTC id 2237,Transport
+debit bigbasket,Groceries
+Ola payment,Transport
+Upi payment tata sky txn 59721,Bills
+paid to jiomart id 5152,Groceries
+dad payment,Other
+Pymt pizza hut txn 70257,Food
+paid to practo id 2833,Health
+bigbasket order id 2149,Groceries
+UPI PAYMENT FORTIS txn 92099,Health
+PYMT ZOMATO id 3111,Food
+Debit dominos#6271,Food
+netflix txn UPI Ref 3082385664,Entertainment
+PYMT BOOKMYSHOW txn 93208,Entertainment
+friend payment id 7888,Other
+Debit youtube,Entertainment
+Upi payment amazon,Shopping
+FORTIS TXN#5648,Health
+DEBIT FLIPKART txn 42538,Shopping
+debit dominos,Food
+paid to pg rent,Rent
+debit jio txn 63258,Bills
+Paid to cashback#4590,Other
+pymt amazon id 4850,Shopping
+NETFLIX ORDER#7622,Entertainment
+pymt reliance fresh,Groceries
+debit rapido#2103,Transport
+Fortis order UPI Ref 9950800066,Health
+Paid to bookmyshow txn 10332,Entertainment
+PAID TO 1MG txn 19752,Health
+MYNTRA ORDER UPI Ref 6279014970,Shopping
+PAID TO IRCTC,Transport
+PYMT IRCTC,Transport
+tata sky txn,Bills
+irctc payment UPI Ref 4115800800,Transport
+DEBIT CASHBACK,Other
+YOUTUBE ORDER txn 85048,Entertainment
+Paid to flat rent UPI Ref 5492623476,Rent
+fortis order,Health
+zomato txn UPI Ref 1191671531,Food
+PYMT PIZZA HUT#8332,Food
+debit jio#1786,Bills
+paid to youtube txn 99228,Entertainment
+uber order id 5260,Transport
+pymt practo,Health
+FLAT RENT PAYMENT id 1739,Rent
+COMPANY PAYROLL TXN id 7633,Salary
+pymt rapido id 7589,Transport
+pizza hut order txn 45384,Food
+upi payment cashback txn 72439,Other
+JIOMART ORDER#2028,Groceries
+Upi payment indigo,Transport
+paid to jio txn 31697,Bills
+upi payment dad txn 82401,Other
+OLA ORDER UPI Ref 6761393865,Transport
+debit swiggy UPI Ref 4380669291,Food
+paid to company payroll#8409,Salary
+RAPIDO TXN#9346,Transport
+Dad payment txn 51537,Other
+paid to uber#9424,Transport
+Paid to swiggy txn 18386,Food
+croma txn txn 97897,Shopping
+pymt friend,Other
+PAID TO MYNTRA,Shopping
+amazon order id 8547,Shopping
+PAID TO BANK TRANSFER,Other
+Amazon txn UPI Ref 5554668016,Shopping
+Pymt myntra txn 35670,Shopping
+FREELANCE ORDER#9425,Salary
+BIGBASKET PAYMENT txn 37932,Groceries
+pymt bigbasket#8325,Groceries
+UPI PAYMENT APOLLO PHARMACY#9885,Health
+pymt zepto id 4117,Groceries
+SPOTIFY ORDER id 6971,Entertainment
+debit flipkart txn 80827,Shopping
+Pg rent payment#8097,Rent
+Pymt apollo pharmacy txn 76788,Health
+Paid to consulting UPI Ref 9061380472,Salary
+jiomart order id 7389,Groceries
+UPI PAYMENT AJIO id 5672,Shopping
+PAID TO FREELANCE,Salary
+landlord payment#5912,Rent
+Zepto txn txn 55038,Groceries
+Upi payment subway txn 55756,Food
+friend order#4124,Other
+Bigbasket txn#9143,Groceries
+Jiomart order id 8806,Groceries
+Pymt rapido id 1692,Transport
+UPI PAYMENT DOMINOS txn 50406,Food
+PYMT COMPANY PAYROLL txn 38269,Salary
+landlord payment UPI Ref 9562689174,Rent
+PAID TO UBER txn 12998,Transport
+paid to apollo pharmacy#9242,Health
+FLAT RENT PAYMENT UPI Ref 1405901135,Rent
+youtube payment UPI Ref 7599563183,Entertainment
+Bescom order UPI Ref 4062317304,Bills
+DEBIT FREELANCE id 7288,Salary
+upi payment jiomart#1898,Groceries
+Pymt bank transfer txn 42129,Other
+Flipkart txn txn 66827,Shopping
+UPI PAYMENT SUBWAY UPI Ref 8957523784,Food
+pymt air india#5572,Transport
+DEBIT TATA SKY,Bills
+upi payment consulting txn 48482,Salary
+FRIEND PAYMENT#5158,Other
+landlord payment#8553,Rent
+paid to fortis txn 47098,Health
+SWIGGY PAYMENT id 5764,Food
+Jiomart txn UPI Ref 9129466125,Groceries
+Upi payment croma#3768,Shopping
+paid to dad#9998,Other
+UPI PAYMENT YOUTUBE,Entertainment
+Rapido txn,Transport
+Paid to ola id 9870,Transport
+PAID TO DOMINOS#4891,Food
+uber txn UPI Ref 3272268275,Transport
+PYMT PG RENT id 7203,Rent
+DEBIT ZOMATO id 6955,Food
+PAID TO 1MG#4211,Health
+Debit croma UPI Ref 2047738978,Shopping
+Bank transfer payment txn 87633,Other
+PAID TO JIO id 9065,Bills
+Pymt consulting id 9123,Salary
+ZOMATO TXN,Food
+FORTIS TXN#4071,Health
+PYMT AMAZON txn 35542,Shopping
+DEBIT FORTIS id 3105,Health
+UPI PAYMENT ZEPTO txn 10216,Groceries
+paid to amazon id 5565,Shopping
+Pymt mcd UPI Ref 4625790708,Food
+Debit pg rent txn 90490,Rent
+PAID TO BESCOM,Bills
+Act fibernet order#9386,Bills
+spotify order#1232,Entertainment
+pymt 1mg,Health
+Company payroll txn UPI Ref 8410213920,Salary
+FLAT RENT TXN#1252,Rent
+apollo pharmacy payment id 3509,Health
+UPI PAYMENT NETFLIX UPI Ref 8377388368,Entertainment
+Pymt kfc id 1057,Food
+upi payment ola UPI Ref 1047448629,Transport
+PAID TO CASHBACK,Other
+ajio order id 6956,Shopping
+pymt amazon id 5201,Shopping
+upi payment myntra#8711,Shopping
+LANDLORD TXN UPI Ref 4952182048,Rent
+pymt freelance#8749,Salary
+pymt subway#5212,Food
+D mart txn txn 84954,Groceries
+PYMT CROMA txn 89374,Shopping
+Air india order txn 76063,Transport
+Pymt croma#7641,Shopping
+debit tata sky id 7436,Bills
+Ola order id 1162,Transport
+Ola payment id 2705,Transport
+PYMT MYNTRA,Shopping
+landlord order,Rent
+Pymt landlord txn 75377,Rent
+COMPANY PAYROLL TXN#9368,Salary
+FREELANCE TXN#3274,Salary
+YOUTUBE PAYMENT txn 65560,Entertainment
+Flat rent order UPI Ref 2885292484,Rent
+debit kfc#3671,Food
+JIOMART ORDER,Groceries
+upi payment ajio#4575,Shopping
+pymt act fibernet,Bills
+UPI PAYMENT AMAZON,Shopping
+Debit spotify#2496,Entertainment
+Act fibernet payment UPI Ref 7164486915,Bills
+company payroll txn UPI Ref 6788070733,Salary
+debit subway#9002,Food
+PAID TO SPOTIFY UPI Ref 5393043656,Entertainment
+PYMT LANDLORD UPI Ref 3626379226,Rent
+COMPANY PAYROLL TXN,Salary
+Upi payment uber id 7620,Transport
+bookmyshow txn id 4424,Entertainment
+Paid to rapido,Transport
+NETFLIX PAYMENT,Entertainment
+Upi payment dad UPI Ref 2229032630,Other
+Upi payment practo UPI Ref 9025553945,Health
+kfc order,Food
+SPOTIFY ORDER UPI Ref 8674137354,Entertainment
+Upi payment apollo pharmacy id 8570,Health
+Upi payment croma,Shopping
+UPI PAYMENT FREELANCE id 9478,Salary
+MYNTRA PAYMENT UPI Ref 4470672212,Shopping
+Paid to 1mg,Health
+CROMA TXN UPI Ref 5550497516,Shopping
+UPI PAYMENT LANDLORD#8348,Rent
+Reliance fresh order id 5463,Groceries
+UPI PAYMENT YOUTUBE id 9959,Entertainment
+IRCTC PAYMENT id 5230,Transport
+cashback payment txn 82536,Other
+MYNTRA ORDER UPI Ref 7051534036,Shopping
+Paid to youtube,Entertainment
+Ola order id 3006,Transport
+friend txn#4330,Other
+UPI PAYMENT AIR INDIA UPI Ref 3391584793,Transport
+pymt company payroll id 9516,Salary
+Practo txn UPI Ref 9028192317,Health
+PAID TO CASHBACK#4618,Other
+Indigo txn,Transport
+paid to jio#1548,Bills
+Ajio txn#8075,Shopping
+Pymt swiggy#6223,Food
+fortis txn UPI Ref 2560724255,Health
+Mcd payment,Food
+Zepto order#6465,Groceries
+DEBIT D MART,Groceries
+Irctc txn id 3802,Transport
+Indigo txn UPI Ref 8008048042,Transport
+act fibernet txn UPI Ref 3855827620,Bills
+Paid to airtel#1974,Bills
+Pymt practo#3142,Health
+Dad txn#1346,Other
+debit air india UPI Ref 9814595759,Transport
+PAID TO AIRTEL#6830,Bills
+croma txn,Shopping
+pymt pg rent id 9452,Rent
+Debit tata sky txn 59953,Bills
+pymt freelance txn 39452,Salary
+Pymt bank transfer id 1798,Other
+reliance fresh payment,Groceries
+UPI PAYMENT ACT FIBERNET txn 19421,Bills
+debit jiomart,Groceries
+irctc order#1982,Transport
+UPI PAYMENT FRIEND txn 74922,Other
+CONSULTING TXN id 4461,Salary
+upi payment bookmyshow#9407,Entertainment
+pymt swiggy#7881,Food
+UPI PAYMENT FLIPKART#2091,Shopping
+Pymt swiggy id 6016,Food
+Fortis txn,Health
+PAID TO TATA SKY#8148,Bills
+pymt netflix txn 44660,Entertainment
+OLA ORDER txn 89605,Transport
+debit act fibernet,Bills
+RAPIDO PAYMENT id 8809,Transport
+debit bescom txn 27337,Bills
+ola order UPI Ref 7958694382,Transport
+Pymt youtube id 1315,Entertainment
+Paid to company payroll#1034,Salary
+Debit apollo pharmacy txn 40118,Health
+Paid to landlord#9786,Rent
+upi payment dominos txn 47138,Food
+Netflix order UPI Ref 9117354017,Entertainment
+BIGBASKET PAYMENT txn 72143,Groceries
+UPI PAYMENT RELIANCE FRESH id 9015,Groceries
+netflix payment id 2904,Entertainment
+debit company payroll id 4705,Salary
+Tata sky txn UPI Ref 9536524602,Bills
+Debit swiggy txn 39134,Food
+PYMT AMAZON,Shopping
+jiomart order id 7177,Groceries
+PAID TO PRACTO txn 35090,Health
+LANDLORD ORDER txn 98119,Rent
+paid to dad txn 68862,Other
+BIGBASKET ORDER UPI Ref 6926660938,Groceries
+upi payment bookmyshow txn 77622,Entertainment
+upi payment bank transfer UPI Ref 8013959158,Other
+Pymt pg rent id 9772,Rent
+netflix payment txn 57591,Entertainment
+Pymt d mart,Groceries
+pizza hut order id 4098,Food
+Pymt netflix txn 58073,Entertainment
+rapido payment,Transport
+paid to dad UPI Ref 1113094408,Other
+PAID TO BIGBASKET id 8272,Groceries
+upi payment consulting txn 55580,Salary
+Upi payment indigo,Transport
+paid to freelance#5878,Salary
+DEBIT ZOMATO#8788,Food
+Pymt jiomart id 8679,Groceries
+UPI PAYMENT BOOKMYSHOW id 3756,Entertainment
+ZOMATO ORDER,Food
+Paid to dad txn 36599,Other
+paid to reliance fresh UPI Ref 4109990432,Groceries
+Paid to pizza hut UPI Ref 1127554446,Food
+Paid to practo#8502,Health
+CONSULTING PAYMENT txn 50205,Salary
+spotify payment UPI Ref 6093584835,Entertainment
+Paid to amazon txn 29850,Shopping
+Indigo order txn 55194,Transport
+zepto payment id 7163,Groceries
+debit flat rent UPI Ref 4070649749,Rent
+Netflix order,Entertainment
+Company payroll txn UPI Ref 3290548791,Salary
+UPI PAYMENT 1MG id 7115,Health
+Flat rent payment,Rent
+DEBIT ZOMATO,Food
+Upi payment act fibernet UPI Ref 8242055611,Bills
+pymt landlord#1886,Rent
+PYMT FREELANCE#4878,Salary
+Pizza hut payment#6876,Food
+paid to 1mg#5765,Health
+JIOMART TXN UPI Ref 8589625252,Groceries
+Pymt ajio id 3364,Shopping
+UPI PAYMENT FLAT RENT,Rent
+airtel payment txn 75698,Bills
+Upi payment apollo pharmacy UPI Ref 7799881635,Health
+Netflix order UPI Ref 2779961155,Entertainment
+flat rent payment#9005,Rent
+LANDLORD PAYMENT#8176,Rent
+amazon txn#8318,Shopping
+UPI PAYMENT FREELANCE#8137,Salary
+Paid to air india id 8715,Transport
+Youtube payment#3467,Entertainment
+Flat rent txn id 7482,Rent
+COMPANY PAYROLL ORDER UPI Ref 6454591646,Salary
+upi payment cashback id 9547,Other
+IRCTC ORDER UPI Ref 9984126619,Transport
+DEBIT 1MG#8178,Health
+Pymt irctc UPI Ref 7634496449,Transport
+landlord payment UPI Ref 6343011163,Rent
+jiomart payment,Groceries
+Pymt amazon id 4446,Shopping
+pymt tata sky txn 73234,Bills
+pymt irctc txn 56846,Transport
+Flat rent payment UPI Ref 9467275097,Rent
+DEBIT CROMA UPI Ref 9873087870,Shopping
+SPOTIFY PAYMENT id 2027,Entertainment
+Ajio payment UPI Ref 2037822291,Shopping
+UPI PAYMENT 1MG UPI Ref 9874874814,Health
+spotify txn UPI Ref 2426070776,Entertainment
+upi payment apollo pharmacy id 9976,Health
+Upi payment dad UPI Ref 2375698704,Other
+Netflix order id 3090,Entertainment
+CONSULTING TXN txn 74714,Salary
+Upi payment ola,Transport
+Upi payment pg rent,Rent
+Upi payment bookmyshow id 8731,Entertainment
+Upi payment fortis,Health
+pymt croma txn 74518,Shopping
+upi payment bookmyshow UPI Ref 4368913740,Entertainment
+Pg rent order UPI Ref 3890183289,Rent
+PYMT AMAZON,Shopping
+Uber txn,Transport
+debit apollo pharmacy txn 26280,Health
+IRCTC PAYMENT UPI Ref 1653227624,Transport
+DEBIT D MART txn 62884,Groceries
+pymt indigo UPI Ref 2583904859,Transport
+Paid to air india,Transport
+upi payment tata sky id 1697,Bills
+air india payment UPI Ref 1471131836,Transport
+Debit pg rent id 6047,Rent
+bigbasket order UPI Ref 9989798859,Groceries
+FORTIS TXN UPI Ref 1486195737,Health
+CROMA TXN,Shopping
+PYMT YOUTUBE#7071,Entertainment
+upi payment landlord id 6915,Rent
+pymt landlord txn 91295,Rent
+debit spotify,Entertainment
+paid to jio txn 50487,Bills
+DEBIT AJIO id 6584,Shopping
+PAID TO D MART UPI Ref 5972324485,Groceries
+DEBIT INDIGO,Transport
+Ola txn id 4668,Transport
+Tata sky txn,Bills
+bigbasket payment UPI Ref 1208053153,Groceries
+Upi payment bescom#6976,Bills
+paid to bookmyshow id 3291,Entertainment
+Reliance fresh txn,Groceries
+pymt flat rent id 6946,Rent
+Pymt bank transfer txn 94062,Other
+UPI PAYMENT JIOMART id 3240,Groceries
+Dad payment id 5067,Other
+netflix order txn 73708,Entertainment
+DEBIT FRIEND#2033,Other
+FREELANCE TXN id 8766,Salary
+company payroll payment txn 90640,Salary
+DEBIT ZOMATO,Food
+UPI PAYMENT AJIO#6064,Shopping
+Paid to d mart#3944,Groceries
+apollo pharmacy payment id 6371,Health
+apollo pharmacy order#2544,Health
+RELIANCE FRESH ORDER,Groceries
+debit bookmyshow UPI Ref 4057892427,Entertainment
+Airtel order,Bills
+bank transfer order txn 60410,Other
+Pymt cashback id 1997,Other
+PAID TO YOUTUBE UPI Ref 5110703025,Entertainment
+paid to jio txn 96488,Bills
+Ola payment#9004,Transport
+Paid to apollo pharmacy,Health
+debit dad id 2752,Other
+Debit pg rent UPI Ref 6281473176,Rent
+pymt swiggy,Food
+bescom txn id 9035,Bills
+Paid to bank transfer,Other
+UPI PAYMENT AJIO id 4225,Shopping
+Tata sky payment txn 43245,Bills
+bookmyshow payment id 7205,Entertainment
+Paid to bookmyshow,Entertainment
+PAID TO INDIGO txn 52335,Transport
+pymt bigbasket,Groceries
+Company payroll order txn 18473,Salary
+Jio order id 3938,Bills
+INDIGO PAYMENT UPI Ref 3332986682,Transport
+UPI PAYMENT JIOMART txn 77935,Groceries
+paid to pg rent id 1488,Rent
+UPI PAYMENT ZOMATO#9809,Food
+upi payment apollo pharmacy txn 94282,Health
+DOMINOS ORDER#2530,Food
+paid to jiomart#5347,Groceries
+paid to jio id 7191,Bills
+Debit consulting,Salary
+pymt practo#3717,Health
+PYMT DAD id 5589,Other
+Debit indigo,Transport
+upi payment freelance id 1266,Salary
+paid to youtube,Entertainment
+Paid to zomato UPI Ref 6040132203,Food
+freelance payment txn 46026,Salary
+DEBIT DAD id 8817,Other
+AJIO TXN#9876,Shopping
+DEBIT BANK TRANSFER txn 68613,Other
+1MG PAYMENT,Health
+Pymt consulting txn 92101,Salary
+PG RENT TXN txn 22468,Rent
+AJIO PAYMENT txn 60658,Shopping
+PYMT ZEPTO txn 30917,Groceries
+paid to act fibernet#2281,Bills
+DEBIT ZOMATO id 2293,Food
+LANDLORD TXN txn 29381,Rent
+Paid to company payroll UPI Ref 7796981600,Salary
+1MG ORDER UPI Ref 2595945976,Health
+Pg rent order txn 16959,Rent
+Upi payment consulting UPI Ref 5721893148,Salary
+zomato order txn 48270,Food
+dominos txn txn 73516,Food
+Debit bescom id 1489,Bills
+FORTIS ORDER txn 66227,Health
+debit flat rent txn 54013,Rent
+D mart order txn 17869,Groceries
+Debit swiggy txn 59673,Food
+upi payment freelance,Salary
+OLA ORDER,Transport
+UPI PAYMENT MYNTRA UPI Ref 2532886428,Shopping
+Dad txn#8107,Other
+PAID TO DOMINOS#6801,Food
+jio order id 3572,Bills
+UPI PAYMENT COMPANY PAYROLL#3499,Salary
+paid to flat rent UPI Ref 6878715203,Rent
+upi payment flat rent#3985,Rent
+Debit myntra UPI Ref 2713464170,Shopping
+Debit zepto,Groceries
+debit pg rent txn 27853,Rent
+UPI PAYMENT ZEPTO#2643,Groceries
+upi payment dad,Other
+pymt youtube UPI Ref 2029523092,Entertainment
+Debit practo#9362,Health
+debit landlord#7427,Rent
+Rapido order,Transport
+PYMT FLIPKART#2541,Shopping
+upi payment reliance fresh id 3497,Groceries
+debit flat rent,Rent
+Pymt reliance fresh txn 24597,Groceries
+Subway txn txn 33137,Food
+practo payment UPI Ref 8845857271,Health
+Paid to flat rent UPI Ref 6982167460,Rent
+Pymt spotify,Entertainment
+upi payment amazon txn 85978,Shopping
+upi payment youtube,Entertainment
+debit myntra id 3540,Shopping
+Landlord txn,Rent
+CONSULTING PAYMENT,Salary
+pymt act fibernet UPI Ref 5181853453,Bills
+AJIO PAYMENT#5121,Shopping
+Flat rent txn#4429,Rent
+myntra payment#9315,Shopping
+PYMT CONSULTING UPI Ref 3156080527,Salary
+pg rent order#5753,Rent
+PIZZA HUT ORDER#1715,Food
+Debit flat rent#8458,Rent
+DAD ORDER UPI Ref 4142510837,Other
+debit youtube txn 74279,Entertainment
+PYMT INDIGO,Transport
+upi payment flipkart txn 47181,Shopping
+Paid to youtube txn 33933,Entertainment
+pymt apollo pharmacy UPI Ref 7300104261,Health
+DEBIT CASHBACK id 9489,Other
+bank transfer order#9621,Other
+ajio txn,Shopping
+Bescom order txn 34949,Bills
+Consulting txn id 9749,Salary
+Debit amazon UPI Ref 5394172405,Shopping
+Upi payment zomato txn 62949,Food
+DEBIT CROMA id 9082,Shopping
+Bank transfer txn txn 66393,Other
+Spotify payment txn 94033,Entertainment
+spotify txn UPI Ref 4989855573,Entertainment
+dad order txn 24892,Other
+UPI PAYMENT RELIANCE FRESH txn 41863,Groceries
+Apollo pharmacy payment txn 48242,Health
+Debit airtel#3449,Bills
+DEBIT COMPANY PAYROLL,Salary
+Friend payment,Other
+AIRTEL TXN UPI Ref 6512115806,Bills
+upi payment youtube,Entertainment
+Irctc order,Transport
+pymt reliance fresh,Groceries
+PAID TO BANK TRANSFER UPI Ref 1177260639,Other
+CONSULTING PAYMENT txn 99953,Salary
+rapido txn UPI Ref 7957404918,Transport
+Bank transfer payment txn 25600,Other
+paid to flat rent,Rent
+Consulting payment,Salary
+LANDLORD TXN id 9215,Rent
+Upi payment ola id 8648,Transport
+PAID TO CONSULTING id 3611,Salary
+PYMT BIGBASKET UPI Ref 5407201717,Groceries
+IRCTC PAYMENT id 4531,Transport
+CONSULTING PAYMENT#6587,Salary
+pymt airtel#1855,Bills
+Practo order id 2298,Health
+Pymt flat rent#9876,Rent
+Practo txn UPI Ref 1478220742,Health
+DEBIT INDIGO#8361,Transport
+AJIO PAYMENT id 6337,Shopping
+DOMINOS ORDER id 9458,Food
+PAID TO OLA txn 26316,Transport
+MCD PAYMENT,Food
+APOLLO PHARMACY TXN id 7110,Health
+flat rent payment id 1889,Rent
+PAID TO PRACTO id 4864,Health
+Debit kfc,Food
+Debit air india UPI Ref 1046020602,Transport
+debit mcd#1861,Food
+Paid to swiggy,Food
+Debit consulting id 2684,Salary
+Indigo order txn 85529,Transport
+FLAT RENT PAYMENT,Rent
+CONSULTING TXN,Salary
+pymt 1mg UPI Ref 8598052105,Health
+Paid to pg rent#5625,Rent
+bookmyshow txn txn 55323,Entertainment
+act fibernet txn txn 15106,Bills
+Debit company payroll UPI Ref 9354120582,Salary
+PYMT DAD,Other
+IRCTC TXN#1900,Transport
+DEBIT BANK TRANSFER txn 59242,Other
+BANK TRANSFER ORDER txn 97895,Other
+Upi payment cashback UPI Ref 8432870026,Other
+PYMT OLA UPI Ref 3320660766,Transport
+PYMT FLAT RENT UPI Ref 2220195150,Rent
+friend txn txn 68378,Other
+BESCOM TXN txn 78146,Bills
+D MART ORDER UPI Ref 9414850564,Groceries
+Upi payment air india,Transport
+Upi payment pg rent UPI Ref 4321991140,Rent
+ACT FIBERNET TXN#5748,Bills
+paid to swiggy UPI Ref 7574885248,Food
+act fibernet payment txn 56079,Bills
+upi payment company payroll id 3817,Salary
+upi payment dominos#3126,Food
+PYMT JIO#9598,Bills
+debit bescom#5857,Bills
+FLIPKART ORDER txn 71912,Shopping
+Upi payment zomato id 1305,Food
+DEBIT DAD#3425,Other
+AIR INDIA PAYMENT txn 61627,Transport
+paid to friend id 5967,Other
+PYMT FLAT RENT txn 22548,Rent
+Upi payment irctc,Transport
+debit uber id 4936,Transport
+PYMT COMPANY PAYROLL txn 83317,Salary
+1mg payment id 3339,Health
+FRIEND ORDER UPI Ref 5723273472,Other
+JIOMART ORDER UPI Ref 2657744775,Groceries
+BOOKMYSHOW ORDER#8226,Entertainment
+consulting txn#1791,Salary
+freelance order#3768,Salary
+consulting payment txn 99126,Salary
+debit spotify#9389,Entertainment
+jiomart payment UPI Ref 7191250001,Groceries
+Debit pg rent UPI Ref 9258808740,Rent
+PAID TO COMPANY PAYROLL,Salary
+PG RENT ORDER txn 13417,Rent
+upi payment friend txn 15023,Other
+Paid to ajio txn 60553,Shopping
+youtube payment UPI Ref 9110487071,Entertainment
+Myntra payment,Shopping
+Paid to consulting,Salary
+paid to zomato UPI Ref 9902413901,Food
+Upi payment pg rent UPI Ref 4404903563,Rent
+uber payment,Transport
+cashback order,Other
+Paid to airtel,Bills
+PYMT BANK TRANSFER UPI Ref 5048535123,Other
+DEBIT NETFLIX#9622,Entertainment
+company payroll txn UPI Ref 5077646138,Salary
+upi payment freelance#2230,Salary
+Upi payment act fibernet UPI Ref 1979257677,Bills
+UPI PAYMENT DAD#5564,Other
+PYMT CONSULTING,Salary
+APOLLO PHARMACY PAYMENT UPI Ref 5447551071,Health
+UPI PAYMENT IRCTC,Transport
+1mg order#1918,Health
+Dad order#2029,Other
+Practo payment UPI Ref 9328979562,Health
+flipkart txn id 9035,Shopping
+upi payment consulting txn 84013,Salary
+UPI PAYMENT FRIEND,Other
+pymt jio,Bills
+Paid to jiomart id 8501,Groceries
+Debit zomato#4747,Food
+DEBIT BOOKMYSHOW txn 13187,Entertainment
+JIO PAYMENT txn 12998,Bills
+UPI PAYMENT BOOKMYSHOW id 8327,Entertainment
+Upi payment spotify,Entertainment
+UPI PAYMENT MYNTRA#5841,Shopping
+Paid to indigo#7106,Transport
+bescom txn#4383,Bills
+DEBIT AIRTEL#3305,Bills
+Debit flat rent#6772,Rent
+PIZZA HUT TXN txn 68487,Food
+SUBWAY ORDER UPI Ref 9493199698,Food
+PYMT OLA UPI Ref 6781249072,Transport
+Pg rent payment id 1466,Rent
+Pymt netflix id 6647,Entertainment
+UPI PAYMENT CASHBACK UPI Ref 8614140993,Other
+PAID TO MCD txn 21981,Food
+Paid to bank transfer id 3931,Other
+Paid to air india,Transport
+DEBIT AIR INDIA txn 93904,Transport
+paid to jio UPI Ref 5388003231,Bills
+PAID TO FREELANCE id 5312,Salary
+Pg rent txn txn 26209,Rent
+debit netflix id 1164,Entertainment
+bescom payment id 9321,Bills
+uber txn UPI Ref 1824965069,Transport
+airtel order#2135,Bills
+PAID TO FORTIS#1597,Health
+CONSULTING TXN#1676,Salary
+PAID TO MCD#5321,Food
+landlord txn#5264,Rent
+Pymt bookmyshow txn 40452,Entertainment
+company payroll txn id 1012,Salary
+swiggy order id 4476,Food
+UPI PAYMENT 1MG UPI Ref 1599014235,Health
+paid to bigbasket id 3260,Groceries
+UPI PAYMENT BANK TRANSFER id 9018,Other
+pymt dominos,Food
+pymt d mart,Groceries
+flat rent txn#7393,Rent
+dad txn#9788,Other
+YOUTUBE ORDER UPI Ref 3835326115,Entertainment
+dad payment UPI Ref 4275509987,Other
+Debit spotify,Entertainment
+company payroll txn#3028,Salary
+DAD ORDER txn 24245,Other
+Paid to 1mg#9796,Health
+UPI PAYMENT DOMINOS txn 88457,Food
+Friend txn id 3082,Other
+FLAT RENT ORDER UPI Ref 4285640259,Rent
+upi payment air india#9831,Transport
+Debit freelance txn 88176,Salary
+pymt ajio,Shopping
+PAID TO YOUTUBE#6771,Entertainment
+Upi payment friend#6137,Other
+Bigbasket txn id 8768,Groceries
+APOLLO PHARMACY ORDER,Health
+consulting order UPI Ref 8880149684,Salary
+Debit jiomart id 7756,Groceries
+flat rent txn#6676,Rent
+Paid to air india id 4730,Transport
+DEBIT RELIANCE FRESH#7386,Groceries
+debit fortis#5087,Health
+Irctc payment id 2487,Transport
+Upi payment mcd#4841,Food
+FLIPKART PAYMENT#8831,Shopping
+COMPANY PAYROLL TXN txn 78853,Salary
+Pymt zomato UPI Ref 5535567217,Food
+debit swiggy txn 75020,Food
+upi payment pizza hut UPI Ref 4102752068,Food
+Paid to jio,Bills
+CONSULTING PAYMENT#4346,Salary
+DEBIT ACT FIBERNET,Bills
+pymt freelance txn 13810,Salary
+pymt practo id 8241,Health
+DEBIT YOUTUBE#2689,Entertainment
+PYMT MYNTRA#1654,Shopping
+Youtube payment,Entertainment
+swiggy txn,Food
+upi payment reliance fresh,Groceries
+Cashback payment txn 45592,Other
+Debit apollo pharmacy txn 89136,Health
+rapido payment txn 40173,Transport
+paid to landlord#1446,Rent
+FREELANCE ORDER,Salary
+UPI PAYMENT INDIGO,Transport
+pymt youtube id 8903,Entertainment
+FRIEND ORDER UPI Ref 7610184871,Other
+PYMT ZEPTO UPI Ref 9582123710,Groceries
+debit bookmyshow#5955,Entertainment
+DEBIT SWIGGY#7189,Food
+PRACTO TXN,Health
+FREELANCE PAYMENT,Salary
+APOLLO PHARMACY TXN,Health
+debit bookmyshow id 6645,Entertainment
+PYMT FREELANCE id 3184,Salary
+paid to pg rent id 5500,Rent
+UPI PAYMENT FLAT RENT UPI Ref 2477857862,Rent
+FLIPKART PAYMENT,Shopping
+BANK TRANSFER TXN id 9813,Other
+upi payment landlord id 4606,Rent
+Pizza hut txn txn 91711,Food
+Reliance fresh order txn 78247,Groceries
+Airtel payment UPI Ref 6306951468,Bills
+debit bigbasket txn 83256,Groceries
+PYMT KFC id 6308,Food
+PAID TO APOLLO PHARMACY id 7993,Health
+Debit spotify#2961,Entertainment
+PAID TO COMPANY PAYROLL,Salary
+DEBIT FLAT RENT txn 36861,Rent
+PAID TO ACT FIBERNET txn 75919,Bills
+practo payment UPI Ref 7712754250,Health
+APOLLO PHARMACY PAYMENT txn 10661,Health
+Upi payment cashback id 3277,Other
+ajio order txn 82343,Shopping
+PAID TO FREELANCE,Salary
+flat rent txn#8430,Rent
+Upi payment flat rent UPI Ref 2476643161,Rent
+Paid to youtube txn 19592,Entertainment
+Debit practo id 6288,Health
+debit friend#9581,Other
+Debit pg rent,Rent
+D mart txn txn 99659,Groceries
+Practo order#7302,Health
+1MG ORDER#2521,Health
+debit 1mg txn 63293,Health
+youtube txn#1265,Entertainment
+pg rent order id 5742,Rent
+DEBIT AJIO#9547,Shopping
+bigbasket payment UPI Ref 8981232128,Groceries
+Paid to bigbasket UPI Ref 6028332145,Groceries
+PAID TO UBER txn 60561,Transport
+swiggy payment UPI Ref 9266397629,Food
+PYMT ZOMATO,Food
+debit pg rent id 1955,Rent
+Jio txn,Bills
+pymt cashback txn 78060,Other
+Youtube order id 9857,Entertainment
+Cashback payment#9281,Other
+Debit ola UPI Ref 4184354763,Transport
+pymt bank transfer#6871,Other
+UPI PAYMENT TATA SKY#6289,Bills
+air india txn#4029,Transport
+pymt jiomart txn 22960,Groceries
+PAID TO BIGBASKET txn 60093,Groceries
+upi payment reliance fresh id 2608,Groceries
+debit d mart,Groceries
+jiomart payment,Groceries
+COMPANY PAYROLL ORDER,Salary
+UPI PAYMENT ZEPTO id 8823,Groceries
+DAD PAYMENT,Other
+PYMT RELIANCE FRESH,Groceries
+CASHBACK ORDER txn 33877,Other
+bank transfer order,Other
+landlord payment txn 88366,Rent
+Upi payment myntra#8755,Shopping
+RAPIDO TXN UPI Ref 6984890077,Transport
+pymt amazon,Shopping
+pymt ola id 3157,Transport
+paid to bookmyshow UPI Ref 2467052388,Entertainment
+Act fibernet payment,Bills
+FREELANCE PAYMENT id 8634,Salary
+Subway payment txn 52633,Food
+debit subway UPI Ref 2961492188,Food
+practo order UPI Ref 5324122911,Health
+APOLLO PHARMACY TXN,Health
+upi payment flipkart UPI Ref 7007156352,Shopping
+DEBIT JIOMART UPI Ref 8789840093,Groceries
+bank transfer order,Other
+upi payment uber txn 61820,Transport
+PAID TO TATA SKY UPI Ref 9458546308,Bills
+Friend order,Other
+PYMT LANDLORD,Rent
+DEBIT BIGBASKET,Groceries
+FREELANCE ORDER UPI Ref 9896056834,Salary
+PYMT AJIO txn 83428,Shopping
+Practo txn id 6563,Health
+airtel payment id 5695,Bills
+ZOMATO ORDER,Food
+UBER PAYMENT#7320,Transport
+upi payment croma id 2604,Shopping
+upi payment cashback,Other
+UPI PAYMENT COMPANY PAYROLL UPI Ref 8122612341,Salary
+Pymt amazon#9288,Shopping
+UPI PAYMENT CROMA#3761,Shopping
+Consulting txn UPI Ref 1095361170,Salary
+Netflix payment#8351,Entertainment
+practo txn#8693,Health
+SWIGGY TXN id 8123,Food
+UPI PAYMENT RAPIDO#5782,Transport
+DEBIT ZOMATO#1538,Food
+bank transfer payment txn 72095,Other
+paid to d mart id 4340,Groceries
+PAID TO ZOMATO UPI Ref 8739177796,Food
+PAID TO AMAZON,Shopping
+landlord txn id 8743,Rent
+Act fibernet txn,Bills
+Irctc txn id 2498,Transport
+Indigo payment,Transport
+Pymt bookmyshow id 2489,Entertainment
+Upi payment kfc,Food
+jiomart payment id 8346,Groceries
+PAID TO SPOTIFY UPI Ref 1152137655,Entertainment
+1mg txn txn 33289,Health
+debit friend id 9524,Other
+freelance payment#6692,Salary
+dad txn#1164,Other
+Paid to practo id 6565,Health
+upi payment amazon txn 58580,Shopping
+Uber txn UPI Ref 3441802553,Transport
+fortis payment txn 35275,Health
+landlord order UPI Ref 3918026218,Rent
+Debit spotify UPI Ref 1017508128,Entertainment
+Reliance fresh payment,Groceries
+debit bigbasket UPI Ref 5661001309,Groceries
+debit dad txn 43843,Other
+Upi payment zomato txn 97850,Food
+pymt fortis UPI Ref 3806040982,Health
+PAID TO AIR INDIA,Transport
+bank transfer txn txn 85155,Other
+Pymt tata sky#8635,Bills
+Debit consulting id 1422,Salary
+BANK TRANSFER PAYMENT txn 34342,Other
+PYMT BESCOM UPI Ref 6959523741,Bills
+pymt tata sky#7387,Bills
+LANDLORD TXN#7074,Rent
+Upi payment pg rent txn 28467,Rent
+kfc txn UPI Ref 2096606671,Food
+PYMT UBER,Transport
+DEBIT FLIPKART#2878,Shopping
+Pymt flipkart,Shopping
+ajio payment#7303,Shopping
+paid to bank transfer UPI Ref 5636852911,Other
+landlord order txn 98104,Rent
+pymt reliance fresh,Groceries
+Practo payment UPI Ref 4840357085,Health
+pymt rapido UPI Ref 3481032642,Transport
+Swiggy order UPI Ref 6472578917,Food
+UPI PAYMENT FORTIS,Health
+pymt tata sky#3814,Bills
+Apollo pharmacy txn,Health
+Debit dominos id 9607,Food
+AIRTEL ORDER txn 56393,Bills
+pymt d mart UPI Ref 1878441946,Groceries
+DEBIT CASHBACK txn 77920,Other
+pymt reliance fresh#2650,Groceries
+paid to swiggy#3775,Food
+PAID TO ZEPTO id 8507,Groceries
+Flat rent txn#8523,Rent
+upi payment flat rent id 4999,Rent
+Bank transfer txn,Other
+upi payment irctc,Transport
+myntra payment id 7865,Shopping
+consulting txn,Salary
+UPI PAYMENT IRCTC,Transport
+UPI PAYMENT FORTIS#7355,Health
+1mg order txn 98993,Health
+swiggy order txn 87866,Food
+freelance txn#2473,Salary
+reliance fresh order UPI Ref 8521132693,Groceries
+upi payment d mart UPI Ref 6754521607,Groceries
+PYMT FORTIS#7375,Health
+paid to pg rent id 5417,Rent
+Paid to freelance txn 30767,Salary
+Paid to irctc UPI Ref 6646346171,Transport
+UPI PAYMENT FLIPKART UPI Ref 1386673911,Shopping
+DEBIT 1MG UPI Ref 6335324970,Health
+DEBIT YOUTUBE UPI Ref 9178559372,Entertainment
+JIO ORDER,Bills
+D MART PAYMENT UPI Ref 5375082364,Groceries
+paid to jio#9894,Bills
+Debit myntra#5276,Shopping
+consulting payment,Salary
+Cashback order id 5815,Other
+ACT FIBERNET TXN,Bills
+Tata sky order id 9791,Bills
+debit apollo pharmacy#3207,Health
+Debit flipkart id 2074,Shopping
+PAID TO AIR INDIA#6277,Transport
+PAID TO 1MG txn 73882,Health
+paid to uber txn 66890,Transport
+Spotify txn,Entertainment
+COMPANY PAYROLL PAYMENT UPI Ref 2858823863,Salary
+Swiggy txn txn 74590,Food
+friend txn#9570,Other
+paid to flat rent,Rent
+1mg txn,Health
+AIRTEL TXN,Bills
+UPI PAYMENT MCD#4313,Food
+PYMT CASHBACK UPI Ref 1165074118,Other
+Upi payment jiomart id 4606,Groceries
+debit kfc,Food
+Paid to spotify#8422,Entertainment
+landlord payment#9456,Rent
+spotify order#8752,Entertainment
+ZEPTO TXN#2952,Groceries
+DEBIT CONSULTING,Salary
+pymt d mart id 9290,Groceries
+flipkart payment id 6581,Shopping
+UPI PAYMENT ZOMATO,Food
+Debit jio txn 79865,Bills
+debit bookmyshow txn 22073,Entertainment
+Bookmyshow payment txn 85096,Entertainment
+PAID TO BESCOM id 2176,Bills
+pymt tata sky#6024,Bills
+debit d mart UPI Ref 2902459901,Groceries
+fortis txn txn 37975,Health
+BANK TRANSFER PAYMENT txn 79326,Other
+paid to spotify UPI Ref 5198588742,Entertainment
+paid to flipkart UPI Ref 7370408241,Shopping
+CROMA ORDER txn 99521,Shopping
+1MG PAYMENT id 8589,Health
+airtel payment,Bills
+PRACTO PAYMENT id 6775,Health
+friend order id 8732,Other
+PAID TO BOOKMYSHOW UPI Ref 1488395250,Entertainment
+paid to pg rent#1187,Rent
+upi payment flipkart#1591,Shopping
+Youtube payment txn 15076,Entertainment
+youtube payment txn 40638,Entertainment
+paid to reliance fresh id 5715,Groceries
+paid to youtube UPI Ref 3192104566,Entertainment
+debit friend#9147,Other
+RELIANCE FRESH ORDER,Groceries
+Debit netflix id 7918,
+NEFT SALARY TCS LTD,Salary
+NEFT SALARY INFOSYS LTD,Salary
+NEFT SALARY WIPRO LTD,Salary
+SALARY NEFT TRANSFER,Salary
+ATM CASH WITHDRAWAL,Other
+CASH WITHDRAWAL ATM,Other
+ATM WITHDRAWAL HDFC,Other
+electricity bill payment,Bills
+electricity bill,Bills
+power bill payment,Bills
+bescom bill,Bills
+electricity charges,Bills

@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Firebase secrets
+firebase-credentials.json
+
+# ML model
+category_model.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node (if any)
+node_modules/

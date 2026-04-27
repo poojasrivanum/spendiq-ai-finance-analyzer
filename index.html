@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SpendIQ — Smart Financial Insights</title>
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- Firebase SDKs (compat version — works without bundler) -->
+  <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-analytics-compat.js"></script>
+</head>
+<body>
+
+  <!-- ── Header ── -->
+  <header class="app-header">
+    <div>
+      <h1>SpendIQ</h1>
+      <p class="tagline">Your Intelligent Financial Statement Analyzer</p>
+    </div>
+    <div class="header-right">
+      <div id="backend-status" class="status-badge offline">● Offline mode</div>
+
+      <!-- Auth UI -->
+      <div id="auth-section">
+        <!-- Shown when logged out -->
+        <div id="auth-logged-out">
+          <button id="btn-google-login" class="btn-auth btn-google" onclick="signInWithGoogle()">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" style="margin-right:6px">
+              <path d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z" fill="#4285F4"/>
+              <path d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z" fill="#34A853"/>
+              <path d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l3.66-2.84z" fill="#FBBC05"/>
+              <path d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z" fill="#EA4335"/>
+            </svg>
+            Sign in with Google
+          </button>
+          <button id="btn-guest" class="btn-auth btn-guest" onclick="continueAsGuest()">
+            Continue as Guest
+          </button>
+        </div>
+
+        <!-- Shown when logged in -->
+        <div id="auth-logged-in" style="display:none">
+          <div class="user-pill">
+            <img id="user-avatar" src="" alt="" class="user-avatar" />
+            <span id="user-name" class="user-name"></span>
+            <button class="btn-signout" onclick="signOut()">Sign out</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <!-- ── Upload Controls ── -->
+    <section class="card controls">
+      <input id="file" type="file" accept=".pdf,.csv,.txt" />
+      <div class="btn-row">
+        <button id="parse">Parse File</button>
+        <button id="example" class="btn-secondary">Load Example</button>
+      </div>
+      <div id="status" class="muted">Ready — upload a bank statement PDF, CSV, or TXT</div>
+    </section>
+
+    <!-- ── Summary Stats ── -->
+    <section class="stats-row">
+      <div class="stat-card">
+        <div class="stat-label">Credits</div>
+        <div class="stat-value good" id="credits">₹0</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Debits</div>
+        <div class="stat-value bad" id="debits">₹0</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Net Balance</div>
+        <div class="stat-value" id="net">₹0</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Transactions</div>
+        <div class="stat-value accent" id="txcount">0</div>
+      </div>
+    </section>
+
+    <!-- ── Main Grid ── -->
+    <section class="grid">
+
+      <!-- Left column -->
+      <div class="left-col">
+
+        <div class="card">
+          <h3>Smart Insight</h3>
+          <div id="insight" class="muted">No data yet. Upload a statement to begin.</div>
+        </div>
+
+        <div class="card" id="alerts-card" style="display:none">
+          <h3>Budget Alerts</h3>
+          <div id="alerts-list"></div>
+        </div>
+
+        <div class="card">
+          <div class="card-header-row">
+            <h3>Transactions</h3>
+            <input id="search" type="text" placeholder="Search transactions..." class="search-input" oninput="filterTable()" />
+          </div>
+          <div class="table-container">
+            <table id="txTable">
+              <thead>
+                <tr>
+                  <th>Date</th>
+                  <th>Description</th>
+                  <th>Category</th>
+                  <th>Type</th>
+                  <th>Amount</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Right sidebar -->
+      <aside>
+
+        <div class="card">
+          <h3>Top Categories</h3>
+          <div id="catlist" class="muted">—</div>
+        </div>
+
+        <div class="card">
+          <h3>Spending Breakdown</h3>
+          <svg id="pie" viewBox="0 0 340 300"></svg>
+          <div id="legend" class="legend"></div>
+        </div>
+
+        <div class="card" id="budget-card" style="display:none">
+          <h3>Budget Planner</h3>
+          <p class="muted small">Set monthly limits per category:</p>
+          <div id="budget-inputs"></div>
+          <button id="run-forecast" class="btn-full" style="margin-top:10px">Run Forecast</button>
+        </div>
+
+        <div class="card" id="forecast-card" style="display:none">
+          <h3>Next Month Forecast</h3>
+          <div id="forecast-results"></div>
+        </div>
+
+        <div class="muted small" style="margin-top: 8px;">
+          Note: PDF parsing uses pdfplumber (backend) or PDF.js (offline).
+        </div>
+
+      </aside>
+    </section>
+  </main>
+
+  <!-- ── AI Chatbot Widget ── -->
+  <div id="chat-fab" title="Ask AI about your finances" onclick="toggleChat()">
+    <span id="chat-fab-icon">💬</span>
+  </div>
+
+  <div id="chat-panel">
+    <div class="chat-header">
+      <span>SpendIQ AI Assistant</span>
+      <button onclick="toggleChat()" class="chat-close">✕</button>
+    </div>
+    <div id="chat-messages">
+      <div class="chat-msg bot">Hi! Ask me anything about your spending. Try: <em>"What did I spend most on?"</em></div>
+    </div>
+    <div class="chat-suggestions">
+      <button class="chip" onclick="askQuestion('What is my largest spending category?')">Largest category?</button>
+      <button class="chip" onclick="askQuestion('How can I reduce my expenses?')">Save money tips</button>
+      <button class="chip" onclick="askQuestion('Am I spending too much on food?')">Food spending?</button>
+    </div>
+    <div class="chat-input-row">
+      <input id="chat-input" type="text" placeholder="Ask about your finances..."
+             maxlength="500"
+             onkeydown="if(event.key==='Enter') sendChat()" />
+      <button onclick="sendChat()">Send</button>
+    </div>
+  </div>
+
+  <!-- PDF.js fallback -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.9.179/pdf.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
