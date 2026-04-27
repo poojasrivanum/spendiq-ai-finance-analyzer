@@ -1,6 +1,6 @@
 # SpendIQ 💰 — AI Financial Insights Dashboard
 
-Full-stack app that parses financial statements and generates insights using ML.
+AI-powered financial analytics platform using ML + Flask + Firebase
 
 ## 🚀 Features
 - PDF/CSV/TXT transaction parsing
